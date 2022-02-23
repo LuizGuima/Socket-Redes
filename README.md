@@ -9,20 +9,17 @@
   
     <h1> Para inicializar o programa deve-se ir ao diretório do arquivo e digitar no terminal o seguinte comando para inicializar o servidor:<h1>
     
-    ```
-    python .\servidor.py
-```
+
   
      <h1>Em seguida para iniciarmos o cliente usamos, também no terminal, o comando:<h1>
       
-       ```
+   
     python .\client.py
-```
        
        <h1> Em seguida o programa já está apto para receber o nome do usuário e sua mensagem <h1>
          
          
  <h2> Caso queira enviar outra mensagem deve-se desconectar o cliente e inicializar novamente com o comando: <h2>
-   ```
+   
     python .\client.py
-```
+
